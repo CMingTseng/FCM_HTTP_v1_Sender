@@ -1,0 +1,3 @@
+include ':app' 
+include ':fcm_sender_v1_demo'
+ 
